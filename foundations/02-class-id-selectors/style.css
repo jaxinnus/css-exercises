@@ -1,0 +1,19 @@
+.lemming {
+    background-color: pink;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.lemming-cool {
+    font-size: 24px;
+}
+
+#idiot-one {
+    color: blue;
+    font-size: 36px;
+}
+
+#idiot-two {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
